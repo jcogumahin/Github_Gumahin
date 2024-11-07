@@ -1,0 +1,1 @@
+print("aym thor, thornado")
